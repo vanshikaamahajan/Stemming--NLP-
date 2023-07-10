@@ -5,7 +5,7 @@ General rule of thumb
 
 Reduce the suffix to following
 
-1.SSES - SS
+1.SSES - SS<br>
 2.S - NULL
 3.IES - I
 4.SS - SS
